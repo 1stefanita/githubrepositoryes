@@ -1,0 +1,49 @@
+.number{
+  
+    font-size: 40px;
+    margin-left: 35px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-family:"Roboto";
+}
+.Products{
+    font-size: 25px;
+    color:rgb(139, 134, 134);
+margin-left: 35px;
+margin-bottom: 10px;
+font-family:"Roboto";
+
+}
+.arrow{
+    font-size: 20px;
+    color:red;
+    background-color: rgb(229, 226, 226);
+    padding-left: 10px;
+    width: 200px;
+    margin-left: 35px;
+    border-radius:16px;
+    font-family:"Roboto";
+
+
+}
+.last{
+    color:grey;
+    margin-bottom:50px;
+    margin-left:35;
+    font-family:"Roboto";
+
+}
+.bi-suitcase-lg{
+    font-size:40px;
+    padding:35px;
+    color:rgb(213, 161, 170);
+    background-color: pink;
+    margin-left:35px;
+    border-radius:16px;
+    font-family:"Roboto";
+    background-size: 90px;
+
+}
+.spatiu{
+    margin-top: 70px;
+}
